@@ -16,6 +16,10 @@ pip install -U jupyter-book
 jupyter-book build collaborative_benchmarking
 ```
 
+The file `_build/html/index.html` shows a preview of the book.
+
+The full documentation is [here](https://jupyterbook.org/intro.html).
+
 ## Publish your book online with GitHub Pages
 
 The book is published from main directory.
